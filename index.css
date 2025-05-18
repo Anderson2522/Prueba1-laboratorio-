@@ -1,5 +1,4 @@
-
-.marco{
+.seccion{
     width: 1440px;
     height: 42px;
     margin: auto;
@@ -7,52 +6,40 @@
     background-color: #F5F5F5;
     display: flex;  
     align-items: center;
-  
 }
 .texto {
     padding-left: 120px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.img1{
+.imagen1{
     display: flex;
     align-items: center;
     justify-content: center;
     padding-left: 510px;
 }
-
-.img2 {
+.imagen2{
     display: flex;
     align-items: center;
     justify-content: center;
     padding-left: 70px;
 }
-
-
-.img45 {
+.imagen3{
     display: flex;
     align-items: center;
     justify-content: center;
     padding-left: 70px;
 }
-
-
-
-.marco3{
-    
+.seccion1{
     height: 90px;
     width: 1440px;
     border-bottom: 1px solid #EDEDED;
     display: grid;
     align-items: center;
 }
-
-
 .imagenes{
     padding-left: 6.5rem;
 }
-
-
-  .grabh {
+.grab1{
     padding-top: 8.95rem;
   font-size: 1.5rem;
   display: flex;
@@ -60,17 +47,14 @@
   align-items: flex-end;
   margin-bottom: 1rem;
 }
-
-.grabt {
+.grab2{
   border-bottom: 2px solid #00aaff;
   padding-bottom: 4px;
   font-size: 1.7rem;
 }
-
 .grabt span {
     color: #00aaff; 
 }
-
 .view-all {
     font-size: 1.3rem;
    

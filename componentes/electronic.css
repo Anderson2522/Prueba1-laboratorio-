@@ -1,33 +1,23 @@
-.marco7{
-    
+.seccion5{
     height: 499px;
     width: 1440px;
     border-bottom: 1px solid #EDEDED;
-   
 }
-
 .CajaElectro{
- 
     height: 217px;
- margin-top: 50px;
+    margin-top: 50px;
     gap: 15px;
     display: flex;
     flex-direction: row;
-    padding-left: 8rem;
-    
+    padding-left: 8rem;   
 }
-
 .anuncio1{
-width:389px ;
-height:215px;
-border-radius: 16px;
-background-color: #313131;
-display: flex;
-
-
+    width:389px ;
+    height:215px;
+    border-radius: 16px;
+    background-color: #313131;
+    display: flex;
 }
-
-
 .marca1{
     background-color: #494949;
     width: 99px;
@@ -39,160 +29,112 @@ display: flex;
     justify-content: center;
     color: #FFFFFF;
 }
-
-
-
 .descuento1{
     color: #FFFFFF;
     font-size: 24px;
     width: 100%px;
     height: 30px;
 }
-
 .marcasC2{
     display: flex;
     flex-direction: column;
     gap: 20px;
-   padding-bottom: 31px;
+    padding-bottom: 31px;
     width:389px;
-    padding-left: 20px;
-    
-    justify-content: center;
-    
+    padding-left: 20px; 
+    justify-content: center; 
 }
-
 .telefonoIphone{
     width: 168px;
     height: 320px;
-   position: relative;
-z-index: 9;
-right: -0.7rem;
+    position: relative;
+    z-index: 9;
+    right: -0.7rem;
 }
-
-
-
-
-
 .anuncio2{
     width:389px ;
     height:215px;
     border-radius: 16px;
     background-color: #FFF3CC;
     display: flex;
-    
-    
-    }
-    
-    
-    .marca2{
-        background-color: #F6DE8D;
-        width: 99px;
-        height: 35px;
-        font-size: 14px;
-        border-radius: 8px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        color: #222222;
-    }
-    
-    
-    
-    .descuento2{
-        color: #222222;
-        font-size: 24px;
-        width: 190px;
-        height: 30px;
-    }
-    
-    .marcasC{
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-       
-        width:389px;
-        padding-left: 20px;
-        
-        justify-content: center;
-        
-    }
-    
-    .telefonoRealme{
-        width: 200px;
-        height: 320px;
-        position: relative;
-        z-index: 9;
-    
-    }
-
-
-
-
-
-
+}
+.marca2{
+    background-color: #F6DE8D;
+    width: 99px;
+    height: 35px;
+    font-size: 14px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #222222;
+}
+.descuento2{
+    color: #222222;
+    font-size: 24px;
+    width: 190px;
+    height: 30px;
+}
+.marcasC{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width:389px;
+    padding-left: 20px;
+    justify-content: center;   
+}
+.telefonoRealme{
+    width: 200px;
+    height: 320px;
+    position: relative;
+    z-index: 9;
+}
 .anuncio3{
-        width:389px ;
-        height:215px;
-        border-radius: 16px;
-        background-color: #FFECDF;
-        display: flex;
-        
-        
-        }
-        
-        
+    width:389px ;
+    height:215px;
+    border-radius: 16px;
+    background-color: #FFECDF;
+    display: flex;
+}    
  .marca3{
-            background-color:#FFD1B0;
-            width: 99px;
-            height: 35px;
-            font-size: 14px;
-            border-radius: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: #222222;
-        }
-        
-        
-        
+    background-color:#FFD1B0;
+    width: 99px;
+    height: 35px;
+    font-size: 14px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #222222;
+}
  .descuento2{
-            color: #222222;
-            font-size: 24px;
-            width: 190px;
-            height: 30px;
-        }
-         .marcasC3{
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-           
-            width:389px;
-            padding-left: 20px;
-            
-            justify-content: center;
-            
-        }
-
-
-
-
+    color: #222222;
+    font-size: 24px;
+    width: 190px;
+    height: 30px;
+}
+.marcasC3{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width:389px;
+    padding-left: 20px;    
+    justify-content: center;    
+}
 .cajaC2{
-            width: 114px;
-            height: 8px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin-top: 27px;
-            gap: 8px;
-            margin-left: 540px;
-        }
-        
+    width: 114px;
+    height: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 27px;
+    gap: 8px;
+    margin-left: 540px;
+}   
  .puntos2 {
     padding-left: 42rem;
     padding-top: 2rem;
  }
-
-
  .group49 {
     position: absolute;
     right: 72.2rem;
@@ -200,7 +142,6 @@ right: -0.7rem;
     height: 11rem;
     z-index: 1;
  }
-
  .group49-2 {
     position: absolute;
     right: 47rem;
@@ -208,7 +149,6 @@ right: -0.7rem;
     height: 12rem;
     z-index: 1;
  }
-
  .group49-3 {
     position: absolute;
     right: 21.7rem;
