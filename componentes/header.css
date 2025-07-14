@@ -2,45 +2,121 @@
     height: 90px;
     width: 1440px;
     flex-direction: column  ;
-    border-bottom: 1px solid #EDEDED;
+   border-bottom: 1px solid #EDEDED;
     display: grid;
     grid-template-columns: 30% 45% 25%;
     align-items: center;
 }
-.titulo1{
-    color: #008ECC;
+.Welcome{ 
+    width: 1440px;
+    height: 42px;
+    background-color: #F5F5F5;
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    font-family: monospace;
 }
-.box{
+.texto1{
+    font-size: 14px;
+    color: #666666;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column: 1/2;
+}
+.Parrafo{
+    grid-column: 2/3;
+    padding:3px;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;   
+ }
+ .texto2{
+    color: #666666;
+    font-size: 14px;  
+ }
+ .deliver{
+   padding-left: 20px;
+   padding-right: 20px;
+    border-right: 3px solid#D9D9D9;
+    gap: 30px;  
+ }
+ .All{
+   padding-left: 20px;
+   padding-right: 20px;
+   display: flex;
+ }
+ .caja1 {
+   padding-left: 20px;
+   padding-right: 20px;
+    border-right: 3px solid#D9D9D9;
+    gap: 30px;  
+ }
+ .caja2{
+   padding-left: 20px;
+   padding-right: 20px;
+   display: flex;  
+ }
+ .caja3{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
     gap: 30px;
 }
-.box2{
+.caja5{
+    background-color: #F3F9FB;
     border-radius: 10px;
     width: 600px;
     height: 48px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 10px;   
 }
-.box3{
+.caja6{
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 10px;
 }
-.box1{
+.texto3{
+    color: #666666;
+    font-size: 14px;   
+}
+.caja4{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.box4{
-    padding-left: 6rem;
+.caja7{
+    display: grid;
+    grid-template-columns: 70% 30%;
+    height: 24px;  
+    padding-left: 20px;
+    padding-right: 20px;
 }
-
-
-
-
+.caja8{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+    border-right: 2px solid #D9D9D9;
+}
+.caja9{
+    display:flex;
+    gap: 6px;
+    justify-content: center;
+    align-items: center;
+}
+ .caja10{
+    height: 69px;
+    width: 1440px;   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    border-bottom:1px solid #EDEDED;
+}
+ 
+ 

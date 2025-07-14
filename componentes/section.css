@@ -1,0 +1,59 @@
+.section {
+    background-color: #212844;
+    margin: 20px 150px 0;
+    height: 316px;
+    border-radius: 25px;
+    position: relative; 
+    overflow: hidden;
+}
+
+.alineado {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 60px; 
+}
+
+.textos {
+    flex: 1;
+    padding-right: 40px;
+}
+
+.spantext1 {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    display: block;
+}
+
+.spantext2 {
+    color: #ffffff;
+    font-size: 63px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 10px;
+    display: block;
+}
+
+.spantext3 {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+    display: block;
+}
+.reloj1 {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.reloj {
+    width: 250px; 
+    height: auto;
+
+}

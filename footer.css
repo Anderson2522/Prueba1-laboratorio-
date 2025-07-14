@@ -1,85 +1,117 @@
-.seccion6 {
-  height: 470px;
-  width: 1440px;
- border-bottom: 1px solid #EDEDED;
+.Padrefooter{
+    display: grid;
+    grid-template-columns: 650px 355px 435px;
+    grid-template-rows: 500px ;
+    padding-top: 100px;
 }
-.footer {
-  background-color: #028cc8;
-  color: white;
-  padding: 50px 20px 20px;
-  position: relative;
-  z-index: 1;
+.parteone{
+    
+    background-color: #008ecc;
+    padding-top: 75px;
+    padding-left: 150px;
+    
 }
-.footerConte {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  max-width: 1200px;
-  margin: auto;
+.dos{
+    padding-top: 35px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
 }
-.footerTitu {
-  font-size: 54px;
-  font-weight: bold;
-  margin-bottom: 20px;
-  padding-bottom: 1rem;
+.tres{  
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
+
 }
-.seccionSub {
-  padding-top: 1.5rem;
-  font-size: 1.7rem;
-  margin: 20px 0 10px;
-  padding-bottom: 0.5rem;
+.cuatroo{
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #ffffff;
 }
-.seccion-titulo {
-  font-size: 18px;
-  font-weight: bold;
-  margin-bottom: 10px;
-  position: relative;
-  display: inline-block;
-  color: white;
-  border-bottom: 2px solid white;
-  padding-bottom: 5px;
+.numerooo{
+    font-weight: 600;
+    font-size: 16px;
+    padding-left: 40px;
+    color: #ffffff;
 }
-.footer-seccion {
-  flex: 10 1 250px;
-  margin: 20px;
+.Downloand{
+    padding-top: 15px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
 }
-.footer-seccion ul {
-    padding: 0rem;
-    padding-top: 2rem;
+.applestore{
+    padding-top: 15px;
 }
-.footer-seccion ul li {
-  margin-bottom: 30px;
+.partetwo{
+    background-color: #008ecc;
+    padding-top: 65px;
+    padding-left: 25px;
+    padding-right: 50px;
 }
-.contacto-item {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 10px;
-  font-size: 1.3rem;
+.Most{
+    border-bottom:1px solid #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    color: #ffffff;
 }
-.contacto-item .icon {
-  width: 20px;
-  height: 20px;
-  margin-right: 10px;
-  margin-top: 2px;
+.Most2{
+    border-bottom:1px solid #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 60px;
+    padding-bottom: 15px;
+    color: #ffffff;
 }
-.app-botones img {
-  padding-bottom: 2rem;
-  width: 140px;
-  margin-right: 10px;
-  margin-top: 10px;
+ul{
+    padding-left: 50px;
+    padding-top: 20px;
+    color: #ffffff;
+
 }
-.footerBott {
-  text-align: center;
-  border-top: 1px solid rgba(255, 255, 255, 0.2);
-  margin-top: 40px;
-  padding-top: 20px;
-  font-size: 18px;
+li{
+    padding-bottom: 25px;
+    font-weight: 500;
+    font-size: 16px;
 }
-.footerCircu {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 300px;
-  height: auto;
-  z-index: 0;
+.partetree{
+   
+    background-color: #008ecc;
+    background-color: #008ecc;
+    padding-top: 65px;
+    padding-left: 25px;
+    padding-right: 190px;
+}
+.footerfinal{
+    display: grid;
+    grid-template-columns: 1440px;
+    grid-template-rows: 100px;
+}
+.fin1{
+    background-color: #008ecc;
+    padding-left: 105px;
+    padding-right: 105px;
+}
+.fin{
+    background-color: #008ecc;
+    border-top: 1px solid #05abf3;
+    padding-left: 105px;
+    padding-right: 105px;
+    padding-top: 35px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
 }

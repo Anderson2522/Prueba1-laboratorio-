@@ -52,10 +52,120 @@
   padding-bottom: 4px;
   font-size: 1.7rem;
 }
-.grabt span {
-    color: #00aaff; 
+.categoria1{
+    color:white;
+    background-color: #008ECC;
+    font-size: 14px;
+    height: 36px;
+    width: 125px;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
 }
-.view-all {
-    font-size: 1.3rem;
-   
+.categoria2{
+    width: 160px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+.categoria3{
+    width: 170px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+.categoria4{
+    width: 110px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 10px;
+}
+.categoria5{
+    width: 131px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+.categoria6{
+    width: 100px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+.categoria7{
+    width: 180px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+.categoria8{
+    width: 220px;
+    height: 36px;
+    background-color: #F3F9FB;
+    color: #222222;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    gap: 5px;
+}
+.texto1{
+    font-size: 14px;
+    color: #666666;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column: 1/2;
+}
+.texto2{
+    color: #666666;
+    font-size: 14px;
+ }
+.texto3{
+    color: #666666;
+    font-size: 14px;   
+}
+.texto4{
+    font-size: 16px;
+    color: #666666;
+    grid-column: 1/2;
 }

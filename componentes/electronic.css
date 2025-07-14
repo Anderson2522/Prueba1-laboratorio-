@@ -1,158 +1,82 @@
-.seccion5{
-    height: 499px;
-    width: 1440px;
-    border-bottom: 1px solid #EDEDED;
+.section4{
+    display: grid;
+    grid-template-columns: 45px 230px 870px ;
+    padding-left: 150px;
+    padding-right:  150px; 
+    padding-top: 50px;
 }
-.CajaElectro{
-    height: 217px;
-    margin-top: 50px;
+.Brands{
+    display: grid;
+    grid-template-columns: repeat(3,400px);
+    grid-template-rows: 265px;
+    padding-left: 150px;
+    padding-right:  150px; 
+    padding-top: 50px;
     gap: 15px;
-    display: flex;
-    flex-direction: row;
-    padding-left: 8rem;   
+
 }
-.anuncio1{
-    width:389px ;
-    height:215px;
-    border-radius: 16px;
+.apple{
+    margin: 5px;
+    height: 250px ;
+    display: flex;
     background-color: #313131;
+    border-radius: 30px;
+}
+.xaomi{
+    margin: 5px;
+    height: 250px ;
     display: flex;
+    background-color: #FFecdf;
+    border-radius: 30px;
 }
-.marca1{
-    background-color: #494949;
-    width: 99px;
-    height: 35px;
-    font-size: 14px;
-    border-radius: 8px;
+.narzo{
+    margin: 5px;
+    height: 250px ;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #FFFFFF;
+    background-color: #fff3cc;
+    border-radius: 30px;
 }
-.descuento1{
-    color: #FFFFFF;
-    font-size: 24px;
-    width: 100%px;
-    height: 30px;
+.parte1{
+    border: 1px solid #313131;
+    border-radius: 30px;
+    margin: 5px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+
+    
 }
-.marcasC2{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    padding-bottom: 31px;
-    width:389px;
-    padding-left: 20px; 
-    justify-content: center; 
+.parte1narzo{
+    border: 1px solid #fff3cc;
+    border-radius: 30px;
+    margin: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+
+    
 }
-.telefonoIphone{
-    width: 168px;
-    height: 320px;
-    position: relative;
-    z-index: 9;
-    right: -0.7rem;
+.parte1xaomi{
+    border: 1px solid #FFecdf;
+    border-radius: 30px;
+    margin: 5px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 10px;
+
+    
 }
-.anuncio2{
-    width:389px ;
-    height:215px;
-    border-radius: 16px;
-    background-color: #FFF3CC;
-    display: flex;
+.phonee{
+    padding-top: 10px;
 }
-.marca2{
-    background-color: #F6DE8D;
-    width: 99px;
-    height: 35px;
-    font-size: 14px;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #222222;
+.parte1{
+    width: 45%;
+    padding-top: 25px;
 }
-.descuento2{
-    color: #222222;
-    font-size: 24px;
-    width: 190px;
-    height: 30px;
+.parte2{
+    width: 210px;
+    padding-top: 35px;
 }
-.marcasC{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    width:389px;
-    padding-left: 20px;
-    justify-content: center;   
+.parte3{
+    width: 210px;
+    padding-top: 25px;
 }
-.telefonoRealme{
-    width: 200px;
-    height: 320px;
-    position: relative;
-    z-index: 9;
-}
-.anuncio3{
-    width:389px ;
-    height:215px;
-    border-radius: 16px;
-    background-color: #FFECDF;
-    display: flex;
-}    
- .marca3{
-    background-color:#FFD1B0;
-    width: 99px;
-    height: 35px;
-    font-size: 14px;
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: #222222;
-}
- .descuento2{
-    color: #222222;
-    font-size: 24px;
-    width: 190px;
-    height: 30px;
-}
-.marcasC3{
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    width:389px;
-    padding-left: 20px;    
-    justify-content: center;    
-}
-.cajaC2{
-    width: 114px;
-    height: 8px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 27px;
-    gap: 8px;
-    margin-left: 540px;
-}   
- .puntos2 {
-    padding-left: 42rem;
-    padding-top: 2rem;
- }
- .group49 {
-    position: absolute;
-    right: 72.2rem;
-    width: 11rem;
-    height: 11rem;
-    z-index: 1;
- }
- .group49-2 {
-    position: absolute;
-    right: 47rem;
-    width: 12rem;
-    height: 12rem;
-    z-index: 1;
- }
- .group49-3 {
-    position: absolute;
-    right: 21.7rem;
-    width: 12rem;
-    height: 12rem;
-    z-index: 1;
- }
